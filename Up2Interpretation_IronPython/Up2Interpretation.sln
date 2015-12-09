@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetlib1", "dotnetlib1\dotnetlib1.csproj", "{FC8993D5-7355-4DDA-B094-232D1BE62E3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Up2Interpretation", "Up2Interpretation\Up2Interpretation.csproj", "{32A011A4-A4BE-4A20-94C9-BB80EDCA1424}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IronPythonApplication1", "IronPythonApplication1\IronPythonApplication1.pyproj", "{90538A5F-3E7C-4F76-B4E5-4420EA95F189}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC8993D5-7355-4DDA-B094-232D1BE62E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC8993D5-7355-4DDA-B094-232D1BE62E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC8993D5-7355-4DDA-B094-232D1BE62E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC8993D5-7355-4DDA-B094-232D1BE62E3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32A011A4-A4BE-4A20-94C9-BB80EDCA1424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A011A4-A4BE-4A20-94C9-BB80EDCA1424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A011A4-A4BE-4A20-94C9-BB80EDCA1424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A011A4-A4BE-4A20-94C9-BB80EDCA1424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90538A5F-3E7C-4F76-B4E5-4420EA95F189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90538A5F-3E7C-4F76-B4E5-4420EA95F189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
