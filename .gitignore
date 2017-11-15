@@ -1,3 +1,7 @@
 *.so
 Up2Interpretation_ctypes/test.bmp
 Up2Interpretation_IronPython/packages/
+Up2Interpretation_IronPython/dotnetlib1/obj/
+Up2Interpretation_IronPython/dotnetlib1/bin/
+Up2Interpretation_IronPython/Up2Interpretation/obj/
+Up2Interpretation_IronPython/Up2Interpretation/bin/
